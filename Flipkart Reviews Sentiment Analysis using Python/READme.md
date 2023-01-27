@@ -21,5 +21,4 @@ The mood of the ipynb file is predicted both in the comments and in the review s
 
 You may notice that the above folder contains some of the records created by the flipkarreviews.py file code.
 
-# The central idea of ​​the project is there!
-In the image above you can see the positive reviews for the negatives We welcome your comments. This is beneficial for any business as the rating system is calculated based on user ratings. I think product reviews can only be expressed in comments/review_description. So this project calculates the product rating based on user ratings.
+This is beneficial for any business as the rating system is calculated based on user ratings. I think product reviews can only be expressed in comments/review_description. So this project calculates the product rating based on user ratings.
