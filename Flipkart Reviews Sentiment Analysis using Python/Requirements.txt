@@ -1,0 +1,6 @@
+You need some basic requirements for implementing this in your env.They are 
+1.0 = scikit-learn 
+2.0 = TextBlob 
+3.0 = nltk 
+4.0 = pandas 
+5.0 = emoji
