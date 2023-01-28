@@ -1,0 +1,7 @@
+I have developed a machine learning model for detecting credit card fraud. It uses the dataset from the European Credit Card Transactions, which contains over 284,807 transactions and 492 frauds. The project utilizes Python and various machine learning libraries such as scikit-learn, imbalanced-learn, and TensorFlow for preprocessing, modeling and evaluating the performance of the model.
+
+The project is divided into several stages, including data preprocessing, feature selection, and model training. In the preprocessing stage, the data is cleaned, and outliers are removed. In the feature selection stage, the important features are chosen from the dataset. And in the final stage, the model is trained using various machine learning algorithms like Logistic Regression, Random Forest, Neural Networks and evaluate the performance using various performance metrices. The model uses an imbalanced data set handling technique called "SMOTE" to balance the data and improve the model's performance.
+
+Overall, the project is an implementation of a machine learning model to detect credit card fraud using the European Credit Card Transactions dataset and various machine learning libraries and techniques. The goal of the project is to improve the accuracy and efficiency of detecting fraudulent transactions, thus reducing financial losses for credit card companies and their customers.
+
+Link for the dataset:https://www.kaggle.com/mlg-ulb/creditcardfraud
